@@ -4,7 +4,7 @@ There is some of my Kata solutions from codewars.
 
 <H4>PHP Solutions:</H4>
 
-<H5>Count the smiley faces</H5>
+<H4><strong>Count the smiley faces</strong></H4>
 
 Description:
 <p>Given an array (arr) as an argument complete the function countSmileys that should return the total number of smiling faces.</p>
@@ -26,7 +26,7 @@ countSmileys([';]', ':[', ';*', ':$', ';-D']); // should return 1;
 
 
 
-			Rotate for a Max
+<H4><strong>Rotate for a Max</strong></H4>
 
 Let us begin with an example:
 
