@@ -1,13 +1,13 @@
-# codewars_solutions
+<H2>codewars_solutions</H2>
 
 There is some of my Kata solutions from codewars.
 
-PHP Solutions:
+<H4>PHP Solutions:</H4>
 
-			Count the smiley faces
+<H5>Count the smiley faces</H5>
 
 Description:
-Given an array (arr) as an argument complete the function countSmileys that should return the total number of smiling faces.
+<p>Given an array (arr) as an argument complete the function countSmileys that should return the total number of smiling faces.</p>
 Rules for a smiling face:
 -Each smiley face must contain a valid pair of eyes. Eyes can be marked as : or ;
 -A smiley face can have a nose but it does not have to. Valid characters for a nose are - or ~
