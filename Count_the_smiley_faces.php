@@ -4,15 +4,7 @@
     <meta charset="UTF-8">
     <title>Count the smiley faces!</title>
 </head>
-<style>
-    div.stepOne {
-        background: rgba(0, 0, 0, 1);
-        color: white;
-    }
-    div.stepOne span {
-        opacity: 1;
-    }
-</style>
+
 <body>
 
 <?php
