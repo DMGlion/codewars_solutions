@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c070fe38-bf58-4b08-8e76-30ea3b27dcd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abbreviator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -88,11 +87,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Abbreviator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1305#1306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/Decode_the_Morse_code.js" />
         <option value="$PROJECT_DIR$/src/MaxRotate.java" />
         <option value="$PROJECT_DIR$/src/Kata.java" />
+        <option value="$PROJECT_DIR$/src/Abbreviator.java" />
       </list>
     </option>
   </component>
@@ -184,9 +201,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Kata">
-    <configuration name="Fracts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fracts" />
+  <component name="RunManager" selected="Application.Abbreviator">
+    <configuration name="Abbreviator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abbreviator" />
       <module name="some_codewars_solutions_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abbreviator" />
         <item itemvalue="Application.Kata" />
         <item itemvalue="Application.MaxRotate" />
         <item itemvalue="Application.WeightSort" />
         <item itemvalue="Application.Keypad" />
-        <item itemvalue="Application.Fracts" />
       </list>
     </recent_temporary>
   </component>
@@ -295,6 +312,12 @@
           <line>14</line>
           <properties />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Abbreviator.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -367,8 +390,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Abbreviator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
