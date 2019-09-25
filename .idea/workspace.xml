@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c070fe38-bf58-4b08-8e76-30ea3b27dcd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abbreviator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abbreviator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abbreviator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Abbreviator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="270">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1226#1227#0" expanded="true" />
@@ -315,7 +314,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Abbreviator.java</url>
-          <line>21</line>
+          <line>22</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -400,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Abbreviator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="270">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1226#1227#0" expanded="true" />
