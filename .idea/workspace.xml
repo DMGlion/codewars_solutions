@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c070fe38-bf58-4b08-8e76-30ea3b27dcd3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Abbreviator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abbreviator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rainfall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,15 +99,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Abbreviator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1226#1227#0" expanded="true" />
                 <element signature="e#1305#1306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Rainfall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1180">
+              <caret line="95" column="87" lean-forward="true" selection-start-line="95" selection-start-column="87" selection-end-line="95" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,10 +157,11 @@
         <option value="$PROJECT_DIR$/src/MaxRotate.java" />
         <option value="$PROJECT_DIR$/src/Kata.java" />
         <option value="$PROJECT_DIR$/src/Abbreviator.java" />
+        <option value="$PROJECT_DIR$/src/Rainfall.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="157" />
     <option name="y" value="111" />
     <option name="width" value="1080" />
@@ -200,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Abbreviator">
+  <component name="RunManager" selected="Application.Rainfall">
     <configuration name="Abbreviator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abbreviator" />
       <module name="some_codewars_solutions_Java" />
@@ -215,15 +229,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Keypad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Keypad" />
+    <configuration name="MaxRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxRotate" />
       <module name="some_codewars_solutions_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxRotate" />
+    <configuration name="Rainfall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rainfall" />
       <module name="some_codewars_solutions_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -238,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rainfall" />
         <item itemvalue="Application.Abbreviator" />
         <item itemvalue="Application.Kata" />
         <item itemvalue="Application.MaxRotate" />
         <item itemvalue="Application.WeightSort" />
-        <item itemvalue="Application.Keypad" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +274,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -399,12 +413,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Abbreviator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1226#1227#0" expanded="true" />
             <element signature="e#1305#1306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rainfall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1180">
+          <caret line="95" column="87" lean-forward="true" selection-start-line="95" selection-start-column="87" selection-end-line="95" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
